@@ -5,13 +5,7 @@ import 'firebase/compat/firestore';
 import { GoogleAuthProvider, signInWithPopup,getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAArs7Q9inBa-ZoFl5qICLj3nLSkguXIfw",
-    authDomain: "twitter-clone-aec3b.firebaseapp.com",
-    projectId: "twitter-clone-aec3b",
-    storageBucket: "twitter-clone-aec3b.appspot.com",
-    messagingSenderId: "1049059486708",
-    appId: "1:1049059486708:web:36f38fd83f55d9f555e7a1",
-    measurementId: "G-G5EM7BDK1Y"
+   // enter your config details
   };
 
   // Initialize Firebase
