@@ -1,0 +1,32 @@
+.sidebar__tweet{
+    background-color: var(--twitter-color) !important;
+    border: none !important;
+    font-weight:700 !important;
+    text-transform: inherit !important;
+    margin: 20px;
+}
+
+.sidebar__signout{
+    background-color: var(--twitter-color) !important;
+    border: none !important;
+    font-weight:700 !important;
+    /* text-transform: inherit !important; */
+    margin: 20px;
+}
+.sidebar{
+    /* border-right: 1px solid var(--twitter-background); */
+    /* display: flex;
+    flex-direction: column; */
+    flex: 0.3;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.sidebar__twitterIcon{
+    color: var(--twitter-color);
+    font-size: 30px !important;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}

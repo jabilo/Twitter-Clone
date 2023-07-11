@@ -1,0 +1,34 @@
+.tweetbox{
+    display: flex;
+    padding: 20px;
+}
+
+.tweetbox__avatar{
+    flex: 0.1;
+    padding-right: 10px;
+}
+
+.tweetbox__form{
+    flex:0.9;
+}
+
+/* form{
+    height: 100px;
+} */
+
+.tweetbox__icons{
+    display:flex;
+    justify-content:flex-start;
+    padding-left: 20px;    
+}
+
+.icon{
+    margin: 10px;
+    height: 30px;
+    width: 30px;
+}
+
+.tweet-btn{
+    /* border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important; */
+}
