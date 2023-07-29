@@ -1,3 +1,10 @@
+
+![image](https://github.com/jabilo/Twitter-Clone/assets/66378384/a988bd87-af20-46dd-986f-b8ec2e983d4f)
+
+![image](https://github.com/jabilo/Twitter-Clone/assets/66378384/c9bc0fe9-5277-4b61-9ed4-1f01f3b8eacd)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
